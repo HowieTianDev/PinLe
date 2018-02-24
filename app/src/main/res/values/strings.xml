@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">拼了</string>
+    <string name="home">首页</string>
+    <string name="order">订单</string>
+    <string name="me">我的</string>
+
+    <string name="Step1">  您可在中意的商店选好满意的菜品后，点击“一键拼单”，选择预计送达的时间，
+        并先预支付菜品原费用，等待拼单。</string>
+    <string name="Step2">  若拼单成功，将会出现拼单成功提示，并显示拼单后的实际应付价格，
+        实际价格与预付的差价将返还至原账户；若在预计时间前半小时还未拼单成功，将退回所有预付款。</string>
+    <string name="Step3">  成功拼单后，就请耐心等待外卖小哥的到来吧！</string>
+    <string name="Step4">  每一拼单将会有一个拼主作为外卖小哥来电的接听者，当拼主接到外卖到达电话时
+    ，需“一键通知”，告知拼单的拼友所点菜品已到达，拼友将得到一起拼单的同楼小伙伴的有关联系方式，在得到通知后
+    下楼依照自己的订单取得相应的菜品。</string>
+    <string name="Step5">  在取回外卖后在安心享用前别忘了确认收货和点评哦！</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
